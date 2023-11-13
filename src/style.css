@@ -1,0 +1,242 @@
+.pgina-login {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .pgina-login .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .pgina-login .overlap-group {
+    position: relative;
+    height: 975px;
+    top: 49px;
+  }
+  
+  .pgina-login .elementos-pedro {
+    width: 1440px;
+    height: 409px;
+    top: 566px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .pgina-login .rectangle {
+    width: 1043px;
+    height: 678px;
+    top: 124px;
+    left: 199px;
+    background-color: #246daf;
+    transform: rotate(180deg);
+    position: absolute;
+    border-radius: 35px;
+  }
+  
+  .pgina-login .div {
+    width: 503px;
+    height: 648px;
+    top: 139px;
+    left: 721px;
+    background-color: #ffffff;
+    position: absolute;
+    border-radius: 35px;
+  }
+  
+  .pgina-login .text-wrapper {
+    position: absolute;
+    top: 299px;
+    left: 805px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .text-wrapper-2 {
+    position: absolute;
+    top: 343px;
+    left: 869px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .pgina-login .text-wrapper-3 {
+    position: absolute;
+    top: 426px;
+    left: 805px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b4b4b4;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .line {
+    top: 462px;
+    position: absolute;
+    width: 336px;
+    height: 1px;
+    left: 805px;
+    object-fit: cover;
+  }
+  
+  .pgina-login .text-wrapper-4 {
+    position: absolute;
+    top: 496px;
+    left: 805px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b4b4b4;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .text-wrapper-5 {
+    position: absolute;
+    top: 738px;
+    left: 928px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b4b4b4;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .pgina-login .text-wrapper-6 {
+    position: absolute;
+    top: 666px;
+    left: 916px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b4b4b4;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .text-wrapper-7 {
+    position: absolute;
+    top: 543px;
+    left: 1014px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b4b4b4;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .text-wrapper-8 {
+    position: absolute;
+    top: 543px;
+    left: 834px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-login .img {
+    top: 532px;
+    position: absolute;
+    width: 336px;
+    height: 1px;
+    left: 805px;
+    object-fit: cover;
+  }
+  
+  .pgina-login .mdi-eye-off {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 498px;
+    left: 1119px;
+  }
+  
+  .pgina-login .rectangle-2 {
+    width: 336px;
+    height: 56px;
+    top: 602px;
+    left: 805px;
+    background-color: #1284ee;
+    position: absolute;
+    border-radius: 35px;
+  }
+  
+  .pgina-login .text-wrapper-9 {
+    position: absolute;
+    top: 617px;
+    left: 943px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .pgina-login .ellipse {
+    position: absolute;
+    width: 441px;
+    height: 441px;
+    top: 243px;
+    left: 240px;
+    background-color: #ffffff;
+    border-radius: 220.5px;
+  }
+  
+  .pgina-login .elementos-pedro-2 {
+    width: 105px;
+    height: 88px;
+    top: 171px;
+    left: 920px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .pgina-login .fontisto-toggle-on {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 542px;
+    left: 805px;
+  }
+  
+  .pgina-login .elementos-pedro-3 {
+    width: 578px;
+    height: 784px;
+    top: 18px;
+    left: 208px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .pgina-login .elementos-pedro-4 {
+    width: 91px;
+    height: 91px;
+    top: 0;
+    left: 599px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
